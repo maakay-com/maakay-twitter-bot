@@ -21,6 +21,11 @@ KEYSIGN_BANK_IP (Keysign Bank IP to check cross bank confirmations)
 DJANGO_SETTINGS_MODULE (config.settings.development or config.settings.production)
 SECRET_KEY (Django Secret Key)
 
+ACCESS_TOKEN
+ACCESS_TOKEN_SECRET
+API_KEY
+API_KEY_SECRET
+
 # For production
 POSTGRES_DB
 POSTGRES_USER
